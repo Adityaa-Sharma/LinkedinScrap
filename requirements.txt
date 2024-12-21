@@ -2,7 +2,7 @@ langchain-openai
 langchain-community
 python-dotenv
 ipykernel
-bsy
+bs4
 langchain-core
 streamlit
 gspread
